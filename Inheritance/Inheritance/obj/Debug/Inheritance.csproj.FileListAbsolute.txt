@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Abstract\Abstract\obj\Debug\Abstract.pdb

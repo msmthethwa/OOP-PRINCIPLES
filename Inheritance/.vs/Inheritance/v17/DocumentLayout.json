@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|c:\\users\\cc\\onedrive\\desktop\\mut\\channel\\oop principles\\inheritance\\inheritance\\testdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\testdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6E74C5-088B-411A-A387-BD33BBEE8F93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Bike.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeToolTip": "Inheritance\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:33:15.673Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeToolTip": "Inheritance\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:31:48.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeToolTip": "Inheritance\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:29:07.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dfbf2c56-23e3-4459-bbf2-3f8a6f4c2e9c",
+        "Display": 0,
+        "X": -10,
+        "Y": 33,
+        "Width": 1228,
+        "Height": 670,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDriver.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\TestDriver.cs",
+              "RelativeDocumentMoniker": "Inheritance\\TestDriver.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\MUT\\Channel\\OOP PRINCIPLES\\Inheritance\\Inheritance\\TestDriver.cs",
+              "RelativeToolTip": "Inheritance\\TestDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:34:12.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
